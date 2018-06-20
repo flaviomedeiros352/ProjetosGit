@@ -1,0 +1,19 @@
+c:\users\flavio.medeiros\documents\visual studio 2015\Projects\VerificaBase\VerificaBase\bin\Debug\VerificaBase.exe.config
+c:\users\flavio.medeiros\documents\visual studio 2015\Projects\VerificaBase\VerificaBase\bin\Debug\VerificaBase.exe
+c:\users\flavio.medeiros\documents\visual studio 2015\Projects\VerificaBase\VerificaBase\bin\Debug\VerificaBase.pdb
+c:\users\flavio.medeiros\documents\visual studio 2015\Projects\VerificaBase\VerificaBase\obj\Debug\VerificaBase.csprojResolveAssemblyReference.cache
+c:\users\flavio.medeiros\documents\visual studio 2015\Projects\VerificaBase\VerificaBase\obj\Debug\VerificaBase.Form1.resources
+c:\users\flavio.medeiros\documents\visual studio 2015\Projects\VerificaBase\VerificaBase\obj\Debug\VerificaBase.Properties.Resources.resources
+c:\users\flavio.medeiros\documents\visual studio 2015\Projects\VerificaBase\VerificaBase\obj\Debug\VerificaBase.csproj.GenerateResource.Cache
+c:\users\flavio.medeiros\documents\visual studio 2015\Projects\VerificaBase\VerificaBase\obj\Debug\VerificaBase.exe
+c:\users\flavio.medeiros\documents\visual studio 2015\Projects\VerificaBase\VerificaBase\obj\Debug\VerificaBase.pdb
+C:\Projetos\VerificaBase\VerificaBase\bin\Debug\VerificaBase.exe.config
+C:\Projetos\VerificaBase\VerificaBase\bin\Debug\VerificaBase.exe
+C:\Projetos\VerificaBase\VerificaBase\bin\Debug\VerificaBase.pdb
+C:\Projetos\VerificaBase\VerificaBase\obj\Debug\VerificaBase.csprojResolveAssemblyReference.cache
+C:\Projetos\VerificaBase\VerificaBase\obj\Debug\VerificaBase.Form1.resources
+C:\Projetos\VerificaBase\VerificaBase\obj\Debug\VerificaBase.Properties.Resources.resources
+C:\Projetos\VerificaBase\VerificaBase\obj\Debug\VerificaBase.csproj.GenerateResource.Cache
+C:\Projetos\VerificaBase\VerificaBase\obj\Debug\VerificaBase.csproj.CoreCompileInputs.cache
+C:\Projetos\VerificaBase\VerificaBase\obj\Debug\VerificaBase.exe
+C:\Projetos\VerificaBase\VerificaBase\obj\Debug\VerificaBase.pdb
